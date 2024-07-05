@@ -1,2 +1,1 @@
-## Hi there 👋
-This is my radme
+## Hi there 👋 I'm Sandra, a passionate full-stack developer and data science enthusiast. My tech stack includes JavaScript, React, HTML, and CSS. Lifelong learner, avid reader, and bubble tea aficionado. Let's connect! 🌟
